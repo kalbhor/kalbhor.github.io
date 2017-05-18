@@ -1,0 +1,47 @@
+- title: MusicRepair
+  url: http://github.com/kalbhor/musicrepair
+  image: https://s28.postimg.org/wibuzmq8d/Music_Repair_GIF.gif
+  completed: true
+  details: Fixes music metadata and adds album art.
+
+- title: Thirsty
+  url: http://github.com/kalbhor/thirsty
+  image: https://raw.githubusercontent.com/lakshaykalbhor/Thirsty/master/out.gif
+  completed: true
+  details: Reminds you to drink water on your terminal.
+
+- title: MusicTools
+  url: http://github.com/kalbhor/musictools
+  image: http://i63.tinypic.com/2qc2dk2.jpg
+  completed: true
+  details: Python tools to download, tag music files.
+
+- title: goChat
+  url: http://github.com/kalbhor/goChat
+  image:
+  completed: true
+  details: TCP chat program built in Go.
+
+- title: Image Scraper
+  url: http://github.com/kalbhor/image-scraper
+  image:
+  completed: true
+  details: High performance, concurrent <br> image scraper written in Go
+
+- title: InstaScrape
+  url: http://github.com/kalbhor/InstaScrape
+  image:
+  completed: false
+  details: Instagram scraper and scheduler.
+
+- title: Meme Density
+  url: http://github.com/kalbhor/memedensity
+  image: https://github.com/lakshaykalbhor/MemeDensity/raw/master/workflow.gif
+  completed: true
+  details: Find amount of memes in Facebook newsfeed.
+
+- title: MusicNow
+  url: http://github.com/kalbhor/musicnow
+  image: https://s28.postimg.org/wibuzmq8d/Music_Repair_GIF.gif
+  completed: true
+  details: Download music and entire albums <br> (with metadata) from the terminal.
