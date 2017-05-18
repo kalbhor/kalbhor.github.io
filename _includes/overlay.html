@@ -9,7 +9,8 @@
         <a href="{{ item.url }}" {% unless item.completed %}class="inactive"{% endunless %} target="_blank" rel="nofollow external">
           <span>
             {{ item.title }}
-            <br><p style="font-size: 60%;">{{ item.details }}</p>
+            <br><br>
+            <p style="font-size: 60%;">{{ item.details }}</p>
             {% unless item.completed %}
             <br><p style="font-size: 80%;">(In Progress)</p>
             {% endunless %}
