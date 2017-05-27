@@ -10,6 +10,13 @@
   completed: true
   details: Reminds you to drink water on your terminal.
 
+- title: MusicSeize.com 
+  url: http://musicseize.com 
+  image: 
+  completed: true
+  details: Website that provides music with metadata
+
+
 - title: MusicNow
   url: http://github.com/kalbhor/musicnow
   image: https://s28.postimg.org/wibuzmq8d/Music_Repair_GIF.gif
@@ -34,6 +41,12 @@
   completed: true
   details: Python tools to download, tag music files.
 
+- title: Unofficial Quora API 
+  url: http://github.com/kalbhor/unofficial-quora-api
+  image: 
+  completed: true
+  details: A REST api for Quora.com
+
 - title: InstaScrape
   url: http://github.com/kalbhor/InstaScrape
   image:
@@ -45,3 +58,9 @@
   image: https://github.com/lakshaykalbhor/MemeDensity/raw/master/workflow.gif
   completed: true
   details: Find amount of memes in Facebook newsfeed.
+
+- title: dotfiles 
+  url: http://github.com/kalbhor/dotfiles
+  image: https://github.com/kalbhor/dotfiles/raw/master/vimview.png 
+  completed: true
+  details: My configs.
