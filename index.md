@@ -14,3 +14,5 @@ Apart from programming, I click [pictures](https://500px.com/lakshayk), play the
 I love Pink Floyd, Silicon Valley (TV show) and Reddit.
 
 
+[PGP/GPG key](public_key.txt)
+
