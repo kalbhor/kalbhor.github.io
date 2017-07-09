@@ -4,6 +4,12 @@
   completed: true
   details: Fixes music metadata and adds album art.
 
+- title: Mutago
+  url: http://github.com/makebyte/mutago
+  image: http://i.imgur.com/kwWL7ZG.png
+  completed: true
+  details: ID3 tagger for Go.
+
 - title: Thirsty
   url: http://github.com/kalbhor/thirsty
   image: https://raw.githubusercontent.com/lakshaykalbhor/Thirsty/master/out.gif
