@@ -1,3 +1,9 @@
+- title: MIT Hodor
+  url: http://github.com/kalbhor/MIT-Hodor
+  image: https://i.imgur.com/V9YbtKf.png
+  completed: true
+  details: A messenger bot for my college.
+
 - title: MusicRepair
   url: http://github.com/kalbhor/musicrepair
   image:
